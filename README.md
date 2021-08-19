@@ -1,6 +1,7 @@
 # cwoppen
 CW Open training
 * Info and rules: https://cwops.org/cwops-tests/cw-open/
+* Call history files: https://n1mmwp.hamdocs.com/mmfiles/categories/callhistory/
 
 ## Generate ebook2cw output
 * Edit main.py script variables (wpm, frequency, etc.)
