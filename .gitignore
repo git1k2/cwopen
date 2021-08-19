@@ -1,0 +1,5 @@
+*.mp3
+ebook2cw*
+genmp3.sh
+output.txt
+venv/
